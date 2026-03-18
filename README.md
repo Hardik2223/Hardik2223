@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🎓 Computer Science student with a passion for AI & intelligent systems
+- 🎓 Computer Science student passionate about AI & intelligent systems
 - 📚 Currently learning **Machine Learning**, **Deep Learning**, **Data Science** and **AI**
 - 🔨 Working towards building real-world projects in ML / DL / DS
 - 🌱 Every model trained is a step forward
@@ -46,25 +46,11 @@
 
 ---
 
-## Projects
-
-> 🚧 Currently building the foundation — projects coming soon!
-
-| # | Project | Description | Status |
-|---|---------|-------------|--------|
-| 1 | 🔜 ML Project | Upcoming | `In Progress` |
-| 2 | 🔜 DL Project | Upcoming | `Planned` |
-| 3 | 🔜 Data Science Project | Upcoming | `Planned` |
-
-*This section will grow as I learn and ship projects.*
-
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=333333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=3B82F6&text_color=333333" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hardik2223&show_icons=true&theme=default&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=333333" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik2223&layout=compact&hide_border=true&title_color=3B82F6&text_color=333333" width="38%" />
 </p>
 
 ---
@@ -83,5 +69,5 @@
 <p align="center">
   <i>"The best way to learn is to build."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=3B82F6&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hardik2223&style=flat-square&color=3B82F6&label=Profile+Views" />
 </p>
